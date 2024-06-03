@@ -17,12 +17,12 @@ In this example, we have two threads: a producer and a consumer. The producer in
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/thread-synchronization-example.git
+    git clone https://github.com/FurkanBaytak/Java-Thread-Synchronization.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd thread-synchronization-example
+    cd Java-Thread-Synchronization
     ```
 
 3. Compile the Java files:
